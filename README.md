@@ -2,7 +2,7 @@
 
 <p align="center">
   <!-- LOGO PLACEHOLDER -->
-  <img src="assets/images/logo.png" alt="EcoMart Logo" width="160" height="160"/>
+  <img src="assets/images/icon.png" alt="EcoMart Logo" width="160" height="160"/>
   <!-- Replace the above with your actual logo file path -->
 </p>
 
